@@ -1,0 +1,10 @@
+insert into playercreateinfo_item (race, class, itemid, amount) values (1, 6, 42945, 1);
+insert into playercreateinfo_item (race, class, itemid, amount) values (2, 6, 42945, 1);
+insert into playercreateinfo_item (race, class, itemid, amount) values (3, 6, 42945, 1);
+insert into playercreateinfo_item (race, class, itemid, amount) values (4, 6, 42945, 1);
+insert into playercreateinfo_item (race, class, itemid, amount) values (5, 6, 42945, 1);
+insert into playercreateinfo_item (race, class, itemid, amount) values (6, 6, 42945, 1);
+insert into playercreateinfo_item (race, class, itemid, amount) values (7, 6, 42945, 1);
+insert into playercreateinfo_item (race, class, itemid, amount) values (8, 6, 42945, 1);
+insert into playercreateinfo_item (race, class, itemid, amount) values (10, 6, 42945, 1);
+insert into playercreateinfo_item (race, class, itemid, amount) values (11, 6, 42945, 1);
